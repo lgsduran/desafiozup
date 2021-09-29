@@ -16,7 +16,7 @@ Desafio Zup - automação Web.
 
 ### Pré-requisito
 
-1. Acesse o repositório [bitbucket](https://bitbucket.org/lgduran/desafiozup/) para clonar o projeto.
+1. Acesse o repositório [github](https://github.com/lgsduran/desafiozup) para clonar o projeto.
 
 ### Execução
 
